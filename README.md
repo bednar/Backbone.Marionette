@@ -3,7 +3,7 @@
 
 ### Supported Versions
 
-|   Backbone.Marionette  |   Backbone.Marionette  |
+|   Backbone.Marionette  |   Maven  |
 |:----------------------:|:----------------------:|
 |       1.1.0            |          1.1.0         |
 
