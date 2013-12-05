@@ -8,6 +8,7 @@
 |:---------------------:|:---------:|
 |       1.1.0           |   1.1.0   |
 |       1.3.0           |   1.3.0   |
+|       1.4.0           |   1.4.0   |
 
 
 ### Dependency
@@ -15,7 +16,7 @@
     <dependency>
         <groupId>com.github.bednar</groupId>
         <artifactId>backbone-marionette</artifactId>
-        <version>1.3.0</version>
+        <version>1.4.0</version>
     </dependency>
 
 ### Reference in HTML
