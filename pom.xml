@@ -7,7 +7,7 @@
     <!--suppress MavenRedundantGroupId -->
     <groupId>com.github.bednar</groupId>
     <artifactId>backbone-marionette</artifactId>
-    <version>1.4.0</version>
+    <version>1.4.1</version>
 
     <parent>
         <artifactId>maven-parent</artifactId>
