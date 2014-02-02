@@ -6,6 +6,7 @@
 
 |   Backbone.Marionette |   Maven   |
 |:---------------------:|:---------:|
+|       1.6.0           |   1.6.0   |
 |       1.4.1           |   1.4.1   |
 |       1.4.0           |   1.4.0   |
 |       1.3.0           |   1.3.0   |
@@ -17,13 +18,18 @@
     <dependency>
         <groupId>com.github.bednar</groupId>
         <artifactId>backbone-marionette</artifactId>
-        <version>1.4.1</version>
+        <version>1.6.0</version>
     </dependency>
 
 ### Reference in HTML
 
     <script src="lib/backbone/backbone.marionette.js" type="text/javascript"></script>
     <script src="lib/backbone/backbone.marionette.min.js" type="text/javascript"></script>
+
+### Java
+
+    this.getClass().getResourceAsStream("/lib/backbone/backbone.marionette.js")
+    this.getClass().getResourceAsStream("/lib/backbone/backbone.marionette.min.js")
     
 ### Repository
 
